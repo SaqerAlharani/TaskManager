@@ -1,0 +1,29 @@
+# Uploads
+public/uploads/profiles/*
+!public/uploads/profiles/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Vendor (if using Composer in future)
+vendor/
