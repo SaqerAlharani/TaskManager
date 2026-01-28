@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 # Task Manager - نظام إدارة المهام
 
 نظام ذكي لإدارة المهام مبني بـ PHP باستخدام OOP + MVC + Database Relations
